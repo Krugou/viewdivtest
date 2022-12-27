@@ -16,8 +16,6 @@ body {
     background-color: rgb(232, 232, 224);
     width: 100vw;
     z-index: 1;
-    transform-origin: 50% 50%;
-  
     height: 100vh;
     display: flex;
     justify-content: space-between;
